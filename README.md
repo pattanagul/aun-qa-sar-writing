@@ -10,7 +10,7 @@
 | **Version** | 0.1 |
 | **Last Updated** | 2026-09-05 |
 | **Category** | Education |
-| **Author** | น้องอาย 🌸 |
+| **Author** | วัฒนา พัฒนากูล |
 
 ## 🎯 วัตถุประสงค์
 
@@ -113,5 +113,3 @@ Vision/Mission → PLOs → CLOs → Teaching Methods → Assessment Methods
 - GitHub: https://github.com/pattanagul/aun-qa-sar-writing
 
 ---
-
-*Skill นี้สร้างโดย น้องอาย 🌸 สำหรับช่วยเขียน SAR AUN-QA v4.0*
